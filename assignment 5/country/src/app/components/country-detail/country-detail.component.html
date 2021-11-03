@@ -1,0 +1,37 @@
+<div>
+  <div class="row justify-content-center mx-auto">
+    <div class="center" *ngFor="let country of countryFilled; let i = index">
+      <div *ngIf="country.id==idCountry">
+        <div class="card border-0">
+          <h4 class="text-center mt-5">{{country.country}}</h4>
+
+          <table class="mb-5">
+            <td class="ps-5">
+              <tr>Capital</tr>
+              <tr>Area</tr>
+              <tr>Population</tr>
+              <tr>GDP</tr>
+              <tr>Currency</tr>
+            </td>
+            <td>
+              <tr>:</tr>
+              <tr>:</tr>
+              <tr>:</tr>
+              <tr>:</tr>
+              <tr>:</tr>
+            </td>
+            <td>
+              <tr>{{country.country}}</tr>
+              <tr>{{country.area.toLocaleString()}} km <sup>2</sup></tr>
+              <tr>{{country.population.toLocaleString()}} People</tr>
+              <tr>{{country.GDP.toLocaleString()}} USD</tr>
+              <tr>{{country.currency}}</tr>
+            </td>
+          </table>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>

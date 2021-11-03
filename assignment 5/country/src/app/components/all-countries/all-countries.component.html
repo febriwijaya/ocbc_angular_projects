@@ -1,0 +1,21 @@
+<div class="d-flex justify-content-center">
+  <h4 class="text-center mt-3">List of All Countries</h4>
+</div>
+<div>
+  <div class="row">
+    <div class="col-md-12 col-lg-4 col-sm-12" *ngFor="let country of countryFilled; let i = index">
+      <div class="card" (click)="onButtonClick(country.id)" style="cursor: pointer;" data-aos="zoom-in"
+        data-aos-duration="300">
+        <div>
+          <h4>{{country.country}}</h4>
+        </div>
+        <div>
+          Capital
+        </div>
+        <div>
+          {{country.capital}}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

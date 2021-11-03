@@ -1,0 +1,8 @@
+.btn {
+  margin-top: 30px;
+  padding: 10px 10px 0px 10px;
+}
+
+.btn:hover {
+  opacity: 0.8
+}

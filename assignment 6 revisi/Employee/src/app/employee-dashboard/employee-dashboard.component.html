@@ -1,0 +1,136 @@
+<nav class="navbar navbar-light bg-primary">
+  <div class="container">
+    <h1 style="color: aliceblue;">Employee Information</h1>
+    <div class="d-flex">
+      <button (click)="clickAddEmployee()" type="button" class="btn btn-success" data-bs-toggle="modal"
+        data-bs-target="#exampleModal">Add
+        Employee</button>
+    </div>
+  </div>
+</nav>
+
+<div class="container mt-5">
+  <table class="table mt-3">
+    <thead>
+      <tr>
+        <th scope="col">ID</th>
+        <th scope="col">Title</th>
+        <th scope="col">First Name</th>
+        <th scope="col">Last Name</th>
+        <th scope="col">Email</th>
+        <th scope="col">Role</th>
+        <th scope="col">Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let row of employeeData">
+        <td>{{row.id}}</td>
+        <td>{{row.title}}</td>
+        <td>{{row.firstName}}</td>
+        <td>{{row.lastName}}</td>
+        <td>{{row.email}}</td>
+        <td>{{row.role}}</td>
+        <td>
+          <button (click)="onEdit(row)" class="btn btn-info" type="button" data-bs-toggle="modal"
+            data-bs-target="#exampleModal">Edit</button>
+          <button (click)="deleteEmployee(row)" class="btn btn-danger mx-3">Delete</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Employee Details</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <form [formGroup]="formValue">
+            <div class="mb-3">
+              <label for="exampleInputEmail1" class="form-label">Title</label>
+              <input type="text" class="form-control" formControlName="title">
+              <span class="text-danger" *ngIf="title?.errors?.required && !title?.pristine">Title tidak boleh
+                kosong</span>
+              <span class="text-danger" *ngIf="title?.errors?.minlength?.requiredLength">Title tidak boleh kurang dari 5
+                karakter</span>
+            </div>
+            <div class="mb-3">
+              <label for="exampleInputEmail1" class="form-label">First Name</label>
+              <input type="text" class="form-control" formControlName="firstName">
+              <span class="text-danger" *ngIf="firstName?.errors?.required && !firstName?.pristine">Nama Depan tidak
+                boleh kosong</span>
+              <span class="text-danger" *ngIf="firstName?.errors?.minlength?.requiredLength">Nama Depan tidak boleh
+                kurang
+                dari 3 karakter</span>
+            </div>
+            <div class="mb-3">
+              <label for="exampleInputPassword1" class="form-label">Last Name</label>
+              <input type="text" class="form-control" formControlName="lastName">
+              <span class="text-danger" *ngIf="lastName?.errors?.required && !lastName?.pristine">Nama Belakang tidak
+                boleh
+                kosong</span>
+              <span class="text-danger" *ngIf="lastName?.errors?.minlength?.requiredLength">Nama Belakang tidak boleh
+                kurang
+                dari
+                3
+                karakter</span>
+            </div>
+            <div class="mb-3">
+              <label for="exampleInputPassword1" class="form-label">Email</label>
+              <input type="email" class="form-control" formControlName="email">
+              <span class="text-danger" *ngIf="email?.errors?.required && !email?.pristine">Email tidak boleh
+                kosong</span>
+              <span class="text-danger" *ngIf="email?.errors?.minlength?.requiredLength">Email tidak boleh kurang dari
+                5
+                karakter</span>
+            </div>
+            <div class="mb-3">
+              <label for="exampleInputPassword1" class="form-label">Role</label>
+              <select class="form-control" formControlName="role">
+                <option value="User">User</option>
+                <option value="Admin">Admin</option>
+              </select>
+              <span class="text-danger" *ngIf="role?.errors?.required && !role?.pristine">Role tidak boleh
+                kosong</span>
+            </div>
+            <div class="mb-3">
+              <label for="exampleInputPassword1" class="form-label">Password</label>
+              <input type="password" class="form-control" formControlName="password">
+              <span class="text-danger" *ngIf="password?.errors?.required && !password?.pristine">Password tidak boleh
+                kosong</span>
+              <span class="text-danger" *ngIf="password?.errors?.minlength?.requiredLength">Password tidak boleh kurang
+                dari
+                5
+                karakter</span>
+            </div>
+            <div class="mb-3">
+              <label for="exampleInputPassword1" class="form-label">Confirm Password</label>
+              <input type="password" class="form-control" formControlName="confirmPassword">
+              <span class="text-danger"
+                *ngIf="confirmPassword?.errors?.required && !confirmPassword?.pristine">Konfirmasi Password
+                tidak boleh
+                kosong</span>
+              <span class="text-danger" *ngIf="confirmPassword?.errors?.minlength?.requiredLength">Konfirmasi Password
+                tidak boleh
+                kurang dari
+                5
+                karakter</span>
+            </div>
+
+          </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" id="cancel" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          <button type="button" *ngIf="showAdd" class="btn btn-primary mx-2"
+            (click)="postEmployeeDetails()">Add</button>
+          <button type="button" *ngIf="showUpdate" class="btn btn-info mx-2"
+            (click)="updateEmployeeDetails()">Update</button>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

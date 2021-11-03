@@ -1,0 +1,39 @@
+<div class="d-flex justify-content-center mt-3">
+  <h4 class="text-center mb-2">Three Most Populated Countries</h4>
+</div>
+<div [ngClass]="{check:sortPopulation()}">
+  <div class="row">
+    <div class="col-md-12 col-lg-4 col-sm-12" *ngFor="let country of countryFilled; let i = index">
+      <div *ngIf="i<3" class="card" (click)="onButtonClick(country.id)" style="cursor: pointer;" data-aos="zoom-in"
+        data-aos-duration="300">
+        <div>
+          <h4>{{country.country}}</h4>
+        </div>
+        <div>
+          {{country.population.toLocaleString()}}
+        </div>
+        <div>
+          People
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="d-flex justify-content-center">
+  <h4 class="text-center mb-3 mt-5">Three Largest Area of Countries</h4>
+</div>
+<div [ngClass]="{check:sortArea()}">
+  <div class="row card-group">
+    <div class="col-md-12 col-lg-4 col-sm-12" *ngFor="let country of countryFilled; let i = index">
+      <div *ngIf="i<3" class="card" (click)="onButtonClick(country.id)" style="cursor: pointer;" data-aos="zoom-in"
+        data-aos-duration="300">
+        <div>
+          <h4>{{country.country}}</h4>
+        </div>
+        <div>
+          {{country.area.toLocaleString()}} km <sup>2</sup>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
