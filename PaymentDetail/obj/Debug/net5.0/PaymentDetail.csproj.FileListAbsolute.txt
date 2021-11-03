@@ -1,0 +1,214 @@
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\appsettings.Development.json
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\appsettings.json
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\PaymentDetail.exe
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\PaymentDetail.deps.json
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\PaymentDetail.runtimeconfig.json
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\PaymentDetail.runtimeconfig.dev.json
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\PaymentDetail.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\ref\PaymentDetail.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\PaymentDetail.pdb
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Humanizer.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\MySqlConnector.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.csproj.AssemblyReference.cache
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.GeneratedMSBuildEditorConfig.editorconfig
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.AssemblyInfoInputs.cache
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.AssemblyInfo.cs
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.csproj.CoreCompileInputs.cache
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.MvcApplicationPartsAssemblyInfo.cs
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.MvcApplicationPartsAssemblyInfo.cache
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\staticwebassets\PaymentDetail.StaticWebAssets.Manifest.cache
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\staticwebassets\PaymentDetail.StaticWebAssets.xml
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\scopedcss\bundle\PaymentDetail.styles.css
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.RazorTargetAssemblyInfo.cache
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.csproj.CopyComplete
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\ref\PaymentDetail.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.pdb
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.genruntimeconfig.cache
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\PaymentDetail.StaticWebAssets.xml
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\OCBC Hacktiv8\C#\018_MuchamadMuhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\appsettings.Development.json
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\appsettings.json
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\PaymentDetail.StaticWebAssets.xml
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\PaymentDetail.exe
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\PaymentDetail.deps.json
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\PaymentDetail.runtimeconfig.json
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\PaymentDetail.runtimeconfig.dev.json
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\PaymentDetail.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\ref\PaymentDetail.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\PaymentDetail.pdb
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Humanizer.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\MySqlConnector.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.csproj.AssemblyReference.cache
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.GeneratedMSBuildEditorConfig.editorconfig
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.AssemblyInfoInputs.cache
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.AssemblyInfo.cs
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.csproj.CoreCompileInputs.cache
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.MvcApplicationPartsAssemblyInfo.cs
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.MvcApplicationPartsAssemblyInfo.cache
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\staticwebassets\PaymentDetail.StaticWebAssets.Manifest.cache
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\staticwebassets\PaymentDetail.StaticWebAssets.xml
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\scopedcss\bundle\PaymentDetail.styles.css
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.RazorTargetAssemblyInfo.cache
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.csproj.CopyComplete
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\ref\PaymentDetail.dll
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.pdb
+E:\OCBC Hacktiv8\Angular\018_Muchamad Muhadjir_FinalProject\PaymentDetail\obj\Debug\net5.0\PaymentDetail.genruntimeconfig.cache
+D:\mm\PaymentDetail\bin\Debug\net5.0\appsettings.Development.json
+D:\mm\PaymentDetail\bin\Debug\net5.0\appsettings.json
+D:\mm\PaymentDetail\bin\Debug\net5.0\PaymentDetail.StaticWebAssets.xml
+D:\mm\PaymentDetail\bin\Debug\net5.0\PaymentDetail.exe
+D:\mm\PaymentDetail\bin\Debug\net5.0\PaymentDetail.deps.json
+D:\mm\PaymentDetail\bin\Debug\net5.0\PaymentDetail.runtimeconfig.json
+D:\mm\PaymentDetail\bin\Debug\net5.0\PaymentDetail.runtimeconfig.dev.json
+D:\mm\PaymentDetail\bin\Debug\net5.0\PaymentDetail.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\ref\PaymentDetail.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\PaymentDetail.pdb
+D:\mm\PaymentDetail\bin\Debug\net5.0\Humanizer.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\MySqlConnector.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\mm\PaymentDetail\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\mm\PaymentDetail\obj\Debug\net5.0\PaymentDetail.csproj.AssemblyReference.cache
+D:\mm\PaymentDetail\obj\Debug\net5.0\PaymentDetail.GeneratedMSBuildEditorConfig.editorconfig
+D:\mm\PaymentDetail\obj\Debug\net5.0\PaymentDetail.AssemblyInfoInputs.cache
+D:\mm\PaymentDetail\obj\Debug\net5.0\PaymentDetail.AssemblyInfo.cs
+D:\mm\PaymentDetail\obj\Debug\net5.0\PaymentDetail.csproj.CoreCompileInputs.cache
+D:\mm\PaymentDetail\obj\Debug\net5.0\PaymentDetail.MvcApplicationPartsAssemblyInfo.cs
+D:\mm\PaymentDetail\obj\Debug\net5.0\PaymentDetail.MvcApplicationPartsAssemblyInfo.cache
+D:\mm\PaymentDetail\obj\Debug\net5.0\staticwebassets\PaymentDetail.StaticWebAssets.Manifest.cache
+D:\mm\PaymentDetail\obj\Debug\net5.0\staticwebassets\PaymentDetail.StaticWebAssets.xml
+D:\mm\PaymentDetail\obj\Debug\net5.0\scopedcss\bundle\PaymentDetail.styles.css
+D:\mm\PaymentDetail\obj\Debug\net5.0\PaymentDetail.RazorTargetAssemblyInfo.cache
+D:\mm\PaymentDetail\obj\Debug\net5.0\PaymentDetail.dll
+D:\mm\PaymentDetail\obj\Debug\net5.0\ref\PaymentDetail.dll
+D:\mm\PaymentDetail\obj\Debug\net5.0\PaymentDetail.pdb
+D:\mm\PaymentDetail\obj\Debug\net5.0\PaymentDetail.genruntimeconfig.cache
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\appsettings.Development.json
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\appsettings.json
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\PaymentDetail.StaticWebAssets.xml
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\PaymentDetail.exe
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\PaymentDetail.deps.json
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\PaymentDetail.runtimeconfig.json
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\PaymentDetail.runtimeconfig.dev.json
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\PaymentDetail.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\ref\PaymentDetail.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\PaymentDetail.pdb
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Humanizer.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\MySqlConnector.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\final_projects\PaymentDetail\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\final_projects\PaymentDetail\obj\Debug\net5.0\PaymentDetail.csproj.AssemblyReference.cache
+D:\final_projects\PaymentDetail\obj\Debug\net5.0\PaymentDetail.GeneratedMSBuildEditorConfig.editorconfig
+D:\final_projects\PaymentDetail\obj\Debug\net5.0\PaymentDetail.AssemblyInfoInputs.cache
+D:\final_projects\PaymentDetail\obj\Debug\net5.0\PaymentDetail.AssemblyInfo.cs
+D:\final_projects\PaymentDetail\obj\Debug\net5.0\PaymentDetail.csproj.CoreCompileInputs.cache
+D:\final_projects\PaymentDetail\obj\Debug\net5.0\PaymentDetail.MvcApplicationPartsAssemblyInfo.cs
+D:\final_projects\PaymentDetail\obj\Debug\net5.0\PaymentDetail.MvcApplicationPartsAssemblyInfo.cache
+D:\final_projects\PaymentDetail\obj\Debug\net5.0\staticwebassets\PaymentDetail.StaticWebAssets.Manifest.cache
+D:\final_projects\PaymentDetail\obj\Debug\net5.0\staticwebassets\PaymentDetail.StaticWebAssets.xml
+D:\final_projects\PaymentDetail\obj\Debug\net5.0\scopedcss\bundle\PaymentDetail.styles.css
+D:\final_projects\PaymentDetail\obj\Debug\net5.0\PaymentDetail.RazorTargetAssemblyInfo.cache
+D:\final_projects\PaymentDetail\obj\Debug\net5.0\PaymentDetail.dll
+D:\final_projects\PaymentDetail\obj\Debug\net5.0\ref\PaymentDetail.dll
+D:\final_projects\PaymentDetail\obj\Debug\net5.0\PaymentDetail.pdb
+D:\final_projects\PaymentDetail\obj\Debug\net5.0\PaymentDetail.genruntimeconfig.cache
