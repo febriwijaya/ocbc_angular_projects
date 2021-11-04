@@ -1,0 +1,16 @@
+<h1>
+  Todo App Application</h1>
+<form [formGroup]="todoData" (ngSubmit)="handleTodoForm()">
+  <div class="input-group mb-3">
+    <input type="text" placeholder="Enter todo..." class="form-control" formControlName="content"
+      [(ngModel)]="inputTodo">
+  </div>
+
+  <div class="form-group">
+    <span class="btn btn-danger" *ngIf="content?.errors?.required && !content?.pristine">Kontent tidak boleh
+      kosong.</span>
+    <span class="btn btn-danger" *ngIf="content?.errors?.minlength?.requiredLength">Kontent Minimal 5 karakter.</span>
+  </div>
+
+  <button type="submit" class="btn btn-primary">Add Todo</button>
+</form>
