@@ -1613,11 +1613,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\final_projects\\PaymentDetail\\PaymentDetail.csproj",
+      "projectUniqueName": "D:\\final_projects\\012_febri_final_projects\\PaymentDetail\\PaymentDetail.csproj",
       "projectName": "PaymentDetail",
-      "projectPath": "D:\\final_projects\\PaymentDetail\\PaymentDetail.csproj",
+      "projectPath": "D:\\final_projects\\012_febri_final_projects\\PaymentDetail\\PaymentDetail.csproj",
       "packagesPath": "C:\\Users\\febri wijaya\\.nuget\\packages\\",
-      "outputPath": "D:\\final_projects\\PaymentDetail\\obj\\",
+      "outputPath": "D:\\final_projects\\012_febri_final_projects\\PaymentDetail\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\febri wijaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
