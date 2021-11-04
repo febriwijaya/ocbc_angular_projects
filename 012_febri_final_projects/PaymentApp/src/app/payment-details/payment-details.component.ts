@@ -3,6 +3,7 @@ import { PaymentDetailService } from '../shared/payment-detail.service';
 import { PaymentDetail } from '../shared/payment-detail.model';
 import { ToastrService } from 'ngx-toastr';
 
+
 @Component({
   selector: 'app-payment-details',
   templateUrl: './payment-details.component.html',

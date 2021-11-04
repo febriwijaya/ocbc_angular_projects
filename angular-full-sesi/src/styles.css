@@ -1,0 +1,34 @@
+/* You can add global styles to this file, and also import other style files */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base */
+
+/* .main-content {
+  width: 80vw;
+  max-width: 1200px;
+  margin: 0 auto;
+  @apply pt-16;
+} */
+
+/* Typography */
+
+/* p { @apply mb-2; }
+code { @apply bg-gray-700; @apply px-2; @apply py-1; } */
+
+/* Forms */
+
+/* input {
+  @apply input;
+  @apply input-primary;
+  @apply input-bordered;
+}
+
+select {
+  @apply select;
+  @apply select-primary;
+  @apply select-bordered;
+  @apply w-full;
+  @apply max-w-xs;
+} */

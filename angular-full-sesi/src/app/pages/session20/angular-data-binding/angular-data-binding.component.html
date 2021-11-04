@@ -1,0 +1,22 @@
+<h3>Angular Data Binding</h3>
+
+<form>
+  <!--
+    Two-way binding
+    Mengubah data yang di-bind sebagai ngModel dari 2 arah, baik dari
+    data pada class component menuju component template (DOM), atau
+    dari arah sebaliknya.
+  -->
+  <input type="text" [(ngModel)]="name" name="name"/>
+
+  <!--
+    One-way binding
+    [] => passing nilai dari class ke dalam DOM
+    () => passing event dari DOM ke dalam class, dan di-handle oleh event handler
+  -->
+  <button class="btn btn-primary" type="submit" (click)="toggleSubmitted()" [disabled]="isSubmitted">Submit</button>
+
+  <!-- penjelasan ngIf ada di Session 21 -->
+
+  <div *ngIf="name.length > 0 && isSubmitted">Hi, {{ name }}!</div>
+</form>

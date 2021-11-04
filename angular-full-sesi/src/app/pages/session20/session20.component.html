@@ -1,0 +1,36 @@
+<h2>
+  Session 20
+</h2>
+
+<h3>Angular Lifecycle</h3>
+
+<p>
+  Klik salah satu button ini, untuk melihat bagaimana sebuah lifecycle terjadi
+  di dalam Angular. <a href="#log">Klik di sini</a> untuk melihat log-nya.
+</p>
+
+<button class="btn btn-primary mr-4" (click)="showComponent()">Push me, sir!</button>
+<button class="btn btn-primary mr-4" (click)="hideComponent()">Push me, too, sir!</button>
+
+<div *ngIf="childComponentState">
+  <app-angular-data-binding (eventTrigger)="appendLog($event)"></app-angular-data-binding>
+</div>
+
+<h3 id="log">Lifecycle Log</h3>
+
+<blockquote class="warning">
+  WARNING!
+  <br>
+  Di sini saya mendemonstrasikan <code>ngDoCheck</code>, di mana ketika kalian menulis sesuatu
+  pada input di atas, maka setiap karakter yang kita input akan terekam oleh hook
+  <code>ngDoCheck</code> pada class <code>AngularDataBinding</code>.
+  <br>
+  <code>ngDoCheck</code> jika kita tidak menempatkan kode kita secara optimal, maka
+  akan berdampak pada performa aplikasi yang menurun. Jadi hati-hati!
+</blockquote>
+
+<ul>
+  <li *ngFor="let log of logs">
+    {{ log }}
+  </li>
+</ul>

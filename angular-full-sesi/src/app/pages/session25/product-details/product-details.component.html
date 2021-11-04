@@ -1,0 +1,12 @@
+<h2>Product Details</h2>
+
+<h4>Product ID: {{ product.id }}</h4>
+
+<p>{{ product.name }}</p>
+<p>{{ product.code }}</p>
+<p>{{ product.price }}</p>
+
+<app-button
+  (onEventTrigger)="goBack()"
+  name="Kembali"
+></app-button>

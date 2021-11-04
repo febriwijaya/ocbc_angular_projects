@@ -1,0 +1,2 @@
+<a [class]="class" *ngIf="linkType === 'internal'" [routerLink]="[ link ]">{{ linkName }}</a>
+<a [class]="class" *ngIf="linkType === 'external'" [href]="linkTo">{{ linkName }}</a>

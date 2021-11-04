@@ -1,0 +1,17 @@
+<h4>Parent to Child -> @Input()</h4>
+
+<p>{{ message }}</p>
+
+<h4>Child to Parent -> @Output() + EventEmitter</h4>
+
+<h5>Message Changer</h5>
+
+<p>Click button below to change message above.</p>
+
+<app-button (onEventTrigger)="changeMessage()" name="Click me"></app-button>
+
+<h5>The Counter</h5>
+
+<p>{{ counter }} time<span *ngIf="counter !== 1">s</span> clicked</p>
+
+<app-button (onEventTrigger)="count()" name="Click me"></app-button>

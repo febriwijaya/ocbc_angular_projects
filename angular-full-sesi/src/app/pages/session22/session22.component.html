@@ -1,0 +1,43 @@
+<h2>
+  Session 22
+</h2>
+
+<h3>Angular Pipes</h3>
+
+<p>
+  Angular bisa melakukan formatting terhadap data yang dibungkus dengan
+  interpolation, dengan menggunakan pipes.
+  <br>
+  <br>
+  Di sini, saya mencontohkan bagaimana cara melakukan piping, dengan
+  pipe bawaan Angular (seperti DatePipe dan JSONPipe), maupun dengan
+  custom pipe.
+  <br>
+  <br>
+  Buka source file ini di dalam:<br>
+  <code>src/app/pages/session22/session22.component.html</code>
+</p>
+
+<h4>Pipe dengan Date</h4>
+
+<h5>Date bawaan</h5>
+<p>{{ currentDate }}</p>
+
+<h5>Date dengan default DatePipe</h5>
+<p>{{ currentDate | date }}</p>
+
+<h5>Date dengan custom DatePipe</h5>
+<p>{{ currentDate | date: 'MMMM dd, YYYY' }}</p>
+
+<h4>Pipe dengan JSON</h4>
+
+<h5>Tanpa JSONPipe</h5>
+<p>{{ person }}</p>
+
+<h5>Dengan JSONPipe</h5>
+<p>{{ person | json }}</p>
+
+<h4>Custom Piping</h4>
+
+<h5>Person dengan PersonPipe</h5>
+<p>{{ person | personPipe }}</p>

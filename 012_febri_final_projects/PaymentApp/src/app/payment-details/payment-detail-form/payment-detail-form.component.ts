@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { PaymentDetailService } from 'src/app/shared/payment-detail.service';
-import { NgForm } from '@angular/forms';
+import { FormControl, FormGroup, NgForm, Validators } from '@angular/forms';
 import { PaymentDetail } from 'src/app/shared/payment-detail.model';
 import { ToastrService } from 'ngx-toastr';
 
@@ -17,6 +17,8 @@ export class PaymentDetailFormComponent implements OnInit {
 
   ngOnInit(): void {
   }
+
+  // numberRegEx = /\-?\d*\.?\d{1,2}/;
 
   onSubmit(form: NgForm) {
     if (this.service.formData.paymentDetailId == 0)

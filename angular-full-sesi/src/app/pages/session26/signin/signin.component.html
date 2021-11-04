@@ -1,0 +1,27 @@
+<div class="auth-wrapper">
+  <form [formGroup]="form.inputData" (ngSubmit)="signIn()">
+    <h3>Sign-in</h3>
+
+    <div class="form-group mt-3">
+      <label>Email</label>
+      <input type="text" formControlName="email" required name="email" id="email">
+      <span
+        style="color: red"
+        *ngIf="email && email.touched && email.invalid">
+        You must input a valid email.
+      </span>
+    </div>
+
+    <div class="form-group mt-3">
+      <label>Password</label>
+      <input type="password" formControlName="password" required name="password" id="password">
+      <span
+        style="color: red"
+        *ngIf="password && password.touched && password.invalid">
+        Your password must have a length of 5 characters.
+      </span>
+
+    </div>
+    <button type="submit" class="btn btn-accent">Sign in</button>
+  </form>
+</div>

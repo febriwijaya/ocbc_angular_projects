@@ -1,0 +1,51 @@
+
+<h2>
+  Session 23
+</h2>
+
+<h3>Angular Modules</h3>
+
+<app-todo-dashboard></app-todo-dashboard>
+
+<h3>Angular View Encapsulation</h3>
+
+<blockquote>
+  NOTE: <code>ShadowDOM</code> hanya dapat berjalan jika terdapat
+  minimal 2 DOM terpisah di satu tingkat yang sama. Jika tidak,
+  maka akan tetap mengikuti root DOM.
+</blockquote>
+<div class="alert alert-error">
+  <div class="flex-1">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="w-6 h-6 mx-2 stroke-current">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18.364 18.364A9 9 0 005.636 5.636m12.728 12.728A9 9 0 015.636 5.636m12.728 12.728L5.636 5.636"></path>
+    </svg>
+    <label><b>DANGER!</b> <code>ShadowDOM</code> tidak di-support oleh semua browser!</label>
+  </div>
+</div>
+<div class="alert alert-error">
+  <div class="flex-1">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="w-6 h-6 mx-2 stroke-current">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18.364 18.364A9 9 0 005.636 5.636m12.728 12.728A9 9 0 015.636 5.636m12.728 12.728L5.636 5.636"></path>
+    </svg>
+      <app-link
+        linkType="external"
+        [linkTo]="['https://angular.io/guide/view-encapsulation#mixing-encapsulation-modes']"
+        linkName="Hindari component yang menggunakan encapsulation campuran"
+      ></app-link>, atau akan terjadi bug seperti pada demo ini.
+  </div>
+</div>
+<div class="alert alert-info">
+  <div class="flex-1">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="w-6 h-6 mx-2 stroke-current">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+    </svg>
+    <label>Pilih session lain kemudian refresh browser untuk me-reset styling.</label>
+  </div>
+</div>
+
+<h4>View Encapsulation: None</h4>
+<app-view-encapsulation-none></app-view-encapsulation-none>
+<h4>View Encapsulation: Emulated dengan None di dalamnya</h4>
+<app-view-encapsulation-emulated></app-view-encapsulation-emulated>
+<h4>View Encapsulation: ShadowDOM dengan Emulated dan None di dalamnya</h4>
+<app-view-encapsulation-shadow-dom></app-view-encapsulation-shadow-dom>

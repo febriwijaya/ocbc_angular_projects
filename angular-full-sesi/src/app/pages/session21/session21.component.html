@@ -1,0 +1,50 @@
+<h2>
+  Session 21
+</h2>
+
+<h3>Angular Expressions & Directives</h3>
+
+<h4>Angular Expressions</h4>
+
+<p>
+  Angular dapat menjalankan expressions di dalam sebuah interpolation.
+  Namun bukan berarti kita dapat menjalankan function ataupun operasi yang
+  memiliki side-effect di dalam interpolation.
+  <br>
+  <br>
+  Perhatikan contoh di bawah ini!
+</p>
+
+<h5>Interpolation</h5>
+
+<h6>Standard</h6>
+<p>{{ name }}</p>
+
+<h6>Standard with pipe</h6>
+<p>{{ name | uppercase }}</p>
+<p>{{ name | lowercase }}</p>
+
+<h6>Ternary inside interpolation</h6>
+
+<div class="alert alert-warning">
+  <div class="flex-1">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="w-6 h-6 mx-2 stroke-current">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path>
+    </svg>
+    <label>WARNING!
+      <br>
+      Ketika menjalankan interpolation dengan ternary operator, kita tidak
+      dapat menerapkan template literals (<code>``</code>) di dalamnya!</label>
+  </div>
+</div>
+
+<p>{{ name === 'Budi' ? name : 'name' }}</p>
+
+<p>
+  Tombol di bawah ini digunakan untuk mengganti nilai pada <code>name</code>,
+  dan melihat ternary operator bekerja di dalam interpolation.
+  <br>
+  Ketika tombol ini diklik, akan mengganti nilai <code>name</code> menjadi Anto.
+</p>
+
+<button class="btn btn-primary" (click)="changeName()">Change name</button>

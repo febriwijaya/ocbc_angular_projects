@@ -1,0 +1,48 @@
+<form *ngIf="!loggedIn" [formGroup]="form.inputData" (ngSubmit)="handleLoginForm()">
+  <div class="form-control">
+    <label for="username">Username</label>
+    <input
+      (change)="toggleFormState(false)"
+      type="text"
+      id="username"
+      name="username"
+      formControlName="username"
+    />
+
+    <div class="invalid-errors" *ngIf="form.submitted && form.errors?.username">
+      <span *ngIf="form.errors?.username?.required">Username is required</span>
+      <span *ngIf="form.errors?.username?.minlength">
+        Username should have a minimum of {{ form.errors?.username?.minlength?.requiredLength }} character(s).
+      </span>
+    </div>
+  </div>
+
+  <div class="form-control">
+    <label for="password">Password</label>
+    <input
+      type="password"
+      name="password"
+      id="password"
+      (change)="toggleFormState(false)"
+      formControlName="password"
+    />
+
+    <div class="invalid-errors" *ngIf="form.submitted && form.errors?.password">
+      <span *ngIf="form.errors?.password?.required">Password is required</span>
+    </div>
+  </div>
+
+  <div class="form-control">
+    <input type="submit" value="Login" [disabled]="form.inputData.invalid">
+  </div>
+</form>
+
+<div *ngIf="loggedIn">
+  <h2>
+    Hello!
+  </h2>
+
+  <p>You're logged in as {{ userData.name }}.</p>
+
+  <button (click)="logout()">Logout</button>
+</div>

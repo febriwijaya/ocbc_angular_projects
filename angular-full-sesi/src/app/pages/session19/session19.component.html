@@ -1,0 +1,13 @@
+<h2>
+  Session 19
+</h2>
+
+<h3>Intro to Angular Components</h3>
+
+<app-child
+  [counter]="parentCounter"
+  [message]="parentMessage"
+
+  (triggerCounter)="changeCounterOnParent()"
+  (triggerChangeMessage)="changeMessageOnParent()"
+></app-child>
